@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:antiquewhite;
+    background-image: url(https://i.pinimg.com/1200x/56/7d/12/567d1286a915fc090c0ed0131f379c12.jpg);
+    background-size: 50%;
+}
+
+nav {
+    padding: 10px;
+    background-color: darkslategrey;
+}
+
+main {
+    padding: 30px;
+}
+
+footer {
+    padding: 10px;
+    background-color: black;
+}
+img {
+    width: 300px;
+}
+
+a {
+    color: antiquewhite;
+}
